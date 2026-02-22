@@ -47,10 +47,15 @@ npm install
 npm run dev 
 
 ###  Backend Setup
+
 Set your environment variables
+
  MONGO_URI=your_mongodb_atlas_uri
+ 
  JWT_SECRET=your_jwt_secret
+ 
 PORT=8000
+
 ### images
 
 login 
