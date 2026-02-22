@@ -8,7 +8,6 @@ Ye project ek **Mini Attendance + Task Management System** hai jisme:
 - Task create, update, aur list dekh sakte hain
 - Frontend React + Tailwind CSS me banaya gaya hai
 - Backend Node.js + Express + MongoDB hai
-- Backend secure aur deployable cloud-ready hai
 
 ---
 ## Live Link
