@@ -37,18 +37,20 @@ Backend: https://mini-attendence.onrender.com
 
 ---
 
-## 🔧 Setup Steps
-### 1️⃣ Frontend  Setup
-``bash
+## Setup Steps
+
+### 1️ Frontend  Setup
 cd  attendence
+
 npm install
+
 npm run dev 
 
-### 1️⃣ Backend Setup
+###  Backend Setup
 Set your environment variables
-# MONGO_URI=your_mongodb_atlas_uri
-# JWT_SECRET=your_jwt_secret
-# PORT=8000
+ MONGO_URI=your_mongodb_atlas_uri
+ JWT_SECRET=your_jwt_secret
+PORT=8000
 ### images
 
 login 
