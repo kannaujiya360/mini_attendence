@@ -12,7 +12,7 @@ Ye project ek **Mini Attendance + Task Management System** hai jisme:
 
 ---
 ## Live Link
-frontend:     https://mini-attendence-fontend.onrender.com
+
 Backend: https://mini-attendence.onrender.com    
 
 
