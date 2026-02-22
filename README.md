@@ -1,6 +1,6 @@
 # Mini Attendance + Task System
 
-## 📝 Project Overview
+##  Project Overview
 Ye project ek **Mini Attendance + Task Management System** hai jisme:
 
 - Users signup/login kar sakte hain (JWT authentication)
@@ -12,8 +12,7 @@ Ye project ek **Mini Attendance + Task Management System** hai jisme:
 
 ---
 ## Live Link
-frontend:https://mini-attendence-fontend.onrender.comhttps://mini-attendence-fontend.onrender.com
-
+frontend:     https://mini-attendence-fontend.onrender.com
 Backend: https://mini-attendence.onrender.com    
 
 
@@ -39,17 +38,39 @@ Backend: https://mini-attendence.onrender.com
 ---
 
 ## 🔧 Setup Steps
+### 1️⃣ Frontend  Setup
+``bash
+cd  attendence
+npm install
+npm run dev 
 
 ### 1️⃣ Backend Setup
-```bash
-cd backend
-npm install
-cp .env.example .env
-# Set your environment variables
+Set your environment variables
 # MONGO_URI=your_mongodb_atlas_uri
 # JWT_SECRET=your_jwt_secret
-# PORT=5000
-npm run dev
+# PORT=8000
+### images
+
+login 
+
+<img width="1252" height="765" alt="Screenshot 2026-02-22 at 5 40 23 PM" src="https://github.com/user-attachments/assets/5e2430d0-0d27-43a0-86f3-762d0745264c" />
+
+
+
+
+register
+
+<img width="1296" height="827" alt="Screenshot 2026-02-22 at 5 40 35 PM" src="https://github.com/user-attachments/assets/ff4de1f9-ab9e-419b-ba10-6ef4e9b41ab1" />
+
+
+
+
+
+ats
+
+
+<img width="1422" height="884" alt="Screenshot 2026-02-22 at 5 42 05 PM" src="https://github.com/user-attachments/assets/48e2c7a2-adae-4cf5-84ba-ce8e585653cf" />
+
 
 
 
